@@ -8,6 +8,7 @@ public class Login extends Navigation {
 
 	public Login() {
 		// TODO Auto-generated constructor stub
+		//test
 	}
 	
 	public void LogIn() throws Exception{
